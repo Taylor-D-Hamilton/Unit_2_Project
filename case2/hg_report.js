@@ -21,7 +21,7 @@ for(var i=0;i<ratings.length;i++)
    ratingsSum+=ratings[i];
 }
 var ratingsAvg=ratingsSum/ratingsCount;
-var ratingReport="<h1>Customer Reviews</h1><h2>"+ratingsAvg+" out of 5 stars (count reviews)</h2>";
+var ratingReport="<h1>Customer Reviews</h1><h2>"+ratingsAvg+" out of 5 stars ("+ratingsCount +"reviews)</h2>";
 
 for(var i=0;i<3;i++)
 {

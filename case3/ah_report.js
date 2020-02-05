@@ -5,8 +5,8 @@
    Tutorial 10
    Case Problem 3
 
-   Author:  
-   Date:   
+   Author:Taylor Hamilton 
+   Date:4/5/20    
    
    Filename: ah_report.js
    
@@ -28,7 +28,7 @@
       
 */
 
-
+var donationTotal=0;
 
 
 
